@@ -1,0 +1,12 @@
+.signin-back{
+    background-image: linear-gradient(to right,lightgreen,white);
+    border-radius: 20px;
+    box-shadow: 2px 2px 2px 2px black;
+    margin-top: 100px;
+    padding: 20px;
+}
+.signinmaindiv{
+    height: 100vh;
+    background-size: cover;
+    background-image: url("https://images.pexels.com/photos/147413/twitter-facebook-together-exchange-of-information-147413.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+}   
